@@ -40,5 +40,5 @@
 ## Контакты
 
 - Электронная почта: secret@lk201.com
-- LinkedIn: [https://www.linkedin.com/in/username](https://www.linkedin.com/in/username)
+- LinkedIn: [https://www.linkedin.com/in/#######](https://www.linkedin.com/in/#######)
 
