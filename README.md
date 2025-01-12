@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https/media.tenor.com/0-2pOrs3IDgAAAPo/%25D1%2587%25D0%25B0%25D1%2582-%25D1%2587%25D0%25B0%25D1%2582-%25D0%25BF%25D0%25BE%25D1%2581%25D0%25BB%25D0%25B5-%25D0%25B8%25D0%25BD%25D1%2584%25D1%258B.gif" width="100"/>
-</div>
 # Мои навыки:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
