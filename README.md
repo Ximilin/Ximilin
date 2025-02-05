@@ -1,3 +1,6 @@
+[![Характеристики](https://github-readme-stats.vercel.app/api?username=Ximilin)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## О себе
 
 Я - опытный fullstack веб-разработчик с опытом работы в разработке веб-приложений. Я обладаю навыками в области frontend и backend разработки, а также в области баз данных и систем управления контентом.
