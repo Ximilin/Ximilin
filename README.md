@@ -1,5 +1,5 @@
-[![Характеристики](https://github-readme-stats-ximilins-projects.vercel.app/api?username=Ximilin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
-[![Языки](https://github-readme-stats-ximilins-projects.vercel.app/api/top-langs/?username=Ximilin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Характеристики](https://github-readme-stats-psi-sand-34.vercel.app/api?username=Ximilin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![Языки](https://github-readme-stats-psi-sand-34.vercel.app/api/top-langs/?username=Ximilin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## О себе
