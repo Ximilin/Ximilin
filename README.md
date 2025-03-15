@@ -1,7 +1,7 @@
 ## Активность.
 [![Характеристики](https://github-readme-stats-tau-ochre.vercel.app/api?username=Ximilin&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 ## То что учу.
-[![Языки](https://github-readme-stats-tau-ochre.vercel.app/api/top-langs/?username=Ximilin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Языки](https://github-readme-stats-tau-ochre.vercel.app/api/wakatime/?username=Ximilin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
