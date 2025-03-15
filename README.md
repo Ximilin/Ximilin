@@ -1,4 +1,4 @@
-[![Характеристики](https://github-readme-stats-tau-ochre.vercel.app/api?username=Ximilin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) \n
+[![Характеристики](https://github-readme-stats-tau-ochre.vercel.app/api?username=Ximilin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) \
 [![Языки](https://github-readme-stats-tau-ochre.vercel.app/api/top-langs/?username=Ximilin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
