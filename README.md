@@ -44,3 +44,4 @@
 - Электронная почта: secret@lk201.com
 - LinkedIn: [https://www.linkedin.com/in/#######](https://www.linkedin.com/in/#######)
 
+https://images-ext-1.discordapp.net/external/K8ng2wb110vneRx54e3bJ4pSDuXkuXcN9y2gyJBLgF4/https/media.tenor.com/BlVMrf8bHTsAAAPo/knight-xbox.mp4
