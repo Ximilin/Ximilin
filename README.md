@@ -4,7 +4,7 @@
 [![Языки](https://github-readme-stats-tau-ochre.vercel.app/api/top-langs/?username=Ximilin&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## О себе.
-> [!NOTE]
+> [!TIP]
 > **Я - опытный `fullstack` 	веб-разработчик с опытом работы в разработке веб-приложений. Я обладаю навыками в области `Frontend` и `Backend` разработки, а также в области баз данных и систем управления контентом.**
 
 ## Навыки.
@@ -32,13 +32,13 @@
 ![WEBSTORM](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 
 ## Проекты.
-
+[!NOTE]
 > - [Проект 1](https://github.com/username/project1) - В разработке
 > - [Проект 2](https://github.com/username/project2) - В разработке
 > - [Проект 3](https://github.com/username/project3) - В разработке
 
 ## Контакты.
-
+[!CAUTION]
 > - Электронная почта: secret@lk201.com
 > - LinkedIn: [https://www.linkedin.com/in/#######](https://www.linkedin.com/in/#######)
 
