@@ -4,8 +4,8 @@
 [![Языки](https://github-readme-stats-tau-ochre.vercel.app/api/top-langs/?username=Ximilin&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## О себе.
-
-> **Я - опытный `fullstack` 	`rgb(9, 105, 218)`веб-разработчик с опытом работы в разработке веб-приложений. Я обладаю навыками в области `Frontend` и `Backend` разработки, а также в области баз данных и систем управления контентом.**
+> [!NOTE]
+> **Я - опытный `fullstack` 	веб-разработчик с опытом работы в разработке веб-приложений. Я обладаю навыками в области `Frontend` и `Backend` разработки, а также в области баз данных и систем управления контентом.**
 
 ## Навыки.
 
