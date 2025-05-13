@@ -5,7 +5,7 @@
 
 ## О себе.
 
-**Я - опытный `fullstack` веб-разработчик с опытом работы в разработке веб-приложений. Я обладаю навыками в области <sup>Frontend</sup> и <sup>Backend</sup> разработки, а также в области баз данных и систем управления контентом.**
+> **Я - опытный `fullstack` веб-разработчик с опытом работы в разработке веб-приложений. Я обладаю навыками в области `Frontend` и `Backend` разработки, а также в области баз данных и систем управления контентом.**
 
 ## Навыки.
 
@@ -33,12 +33,12 @@
 
 ## Проекты.
 
-- [Проект 1](https://github.com/username/project1) - В разработке
-- [Проект 2](https://github.com/username/project2) - В разработке
-- [Проект 3](https://github.com/username/project3) - В разработке
+> - [Проект 1](https://github.com/username/project1) - В разработке
+> - [Проект 2](https://github.com/username/project2) - В разработке
+> - [Проект 3](https://github.com/username/project3) - В разработке
 
 ## Контакты.
 
-- Электронная почта: secret@lk201.com
-- LinkedIn: [https://www.linkedin.com/in/#######](https://www.linkedin.com/in/#######)
+> - Электронная почта: secret@lk201.com
+> - LinkedIn: [https://www.linkedin.com/in/#######](https://www.linkedin.com/in/#######)
 
