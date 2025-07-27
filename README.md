@@ -33,14 +33,4 @@
 ![VSTUDIO](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![WEBSTORM](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 
-## Проекты.
-> [!NOTE]
-> - [Проект 1](https://github.com/username/project1) - В разработке
-> - [Проект 2](https://github.com/username/project2) - В разработке
-> - [Проект 3](https://github.com/username/project3) - В разработке
-
-## Контакты.
-> [!CAUTION]
-> - Электронная почта: secret@lk201.com
-> - LinkedIn: [https://www.linkedin.com/in/#######](https://www.linkedin.com/in/#######)
 
