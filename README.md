@@ -3,10 +3,6 @@
 ## То что учу.
 [![Языки](https://github-readme-stats-tau-ochre.vercel.app/api/top-langs/?username=Ximilin&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## О себе.
-> [!TIP]
-> **Всем ЗДАРОВ!**
-
 ## Навыки.
 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
